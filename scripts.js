@@ -131,19 +131,7 @@ function play() {
     }
     for(let i = 0; i < bestOf; i++){
       const test = round();
-      console.log(test);
     }
-    // if(checkGame = 1){
-    //   wins++;
-    //   leikirSpiladir++;
-    // }
-    // if(checkGame = -1){ 
-    //   losses++;
-    //   leikirSpiladir++;
-    // }
-    // if(checkGame = 0){
-    //   leikirSpiladir++;
-    // }
     
 
   // TODO útfæra
